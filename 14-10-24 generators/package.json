@@ -1,0 +1,14 @@
+{
+  "name": "demo-generators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generators.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasper Woudenberg",
+  "license": "MIT",
+  "dependencies": {
+    "virgilio": "^0.12.0"
+  }
+}
